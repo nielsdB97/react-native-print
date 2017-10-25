@@ -15,8 +15,8 @@ import {
 
 
 import RNHTMLtoPDF from 'react-native-html-to-pdf';
+import RNPrint from 'react-native-print';
 
-const { RNPrint } = NativeModules;
 
 export default class RNPrintExample extends Component {
   
