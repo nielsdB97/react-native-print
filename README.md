@@ -43,11 +43,11 @@ dependencies {
 
 ```java
 // import the package
-import com.rnprint.RNPrint.RNPrint;
+import com.rnprint.RNPrint.RNPrintPackage;
 
 // include package
 new MainReactPackage(),
-new RNPrint(),
+new RNPrintPackage(),
 ```
 
 
